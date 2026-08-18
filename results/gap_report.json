@@ -1,0 +1,29 @@
+{
+  "T_C": {
+    "gap_fraction": 0.0,
+    "n_nan_remaining": 0,
+    "n_interpolated": 0
+  },
+  "RH_pct": {
+    "gap_fraction": 0.0,
+    "n_nan_remaining": 0,
+    "n_interpolated": 0
+  },
+  "u10_ms": {
+    "gap_fraction": 0.0,
+    "n_nan_remaining": 0,
+    "n_interpolated": 0
+  },
+  "Rs_Wm2": {
+    "gap_fraction": 0.0,
+    "n_nan_remaining": 0,
+    "n_interpolated": 0
+  },
+  "N_frac": {
+    "gap_fraction": 1.0,
+    "n_nan_remaining": 1488,
+    "n_interpolated": 0
+  },
+  "total_hours": 1488,
+  "sources_used": "datagouv+infoclimat"
+}

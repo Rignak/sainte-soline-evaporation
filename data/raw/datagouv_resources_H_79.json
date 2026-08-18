@@ -1,0 +1,38 @@
+[
+  {
+    "title": "HOR_departement_79_periode_1940-1949",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_1940-1949.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_1950-1959",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_1950-1959.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_1960-1969",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_1960-1969.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_1980-1989",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_1980-1989.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_1990-1999",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_1990-1999.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_2000-2009",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_2000-2009.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_2010-2019",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_2010-2019.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_2020-2024",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_previous-2020-2024.csv.gz"
+  },
+  {
+    "title": "HOR_departement_79_periode_2025-2026",
+    "url": "https://meteofrance.s3.sbg.io.cloud.ovh.net/data/synchro_ftp/BASE/HOR/H_79_latest-2025-2026.csv.gz"
+  }
+]

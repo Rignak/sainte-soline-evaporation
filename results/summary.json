@@ -1,0 +1,76 @@
+{
+  "gap_report": {
+    "T_C": {
+      "gap_fraction": 0.0,
+      "n_nan_remaining": 0,
+      "n_interpolated": 0
+    },
+    "RH_pct": {
+      "gap_fraction": 0.0,
+      "n_nan_remaining": 0,
+      "n_interpolated": 0
+    },
+    "u10_ms": {
+      "gap_fraction": 0.0,
+      "n_nan_remaining": 0,
+      "n_interpolated": 0
+    },
+    "Rs_Wm2": {
+      "gap_fraction": 0.0,
+      "n_nan_remaining": 0,
+      "n_interpolated": 0
+    },
+    "N_frac": {
+      "gap_fraction": 1.0,
+      "n_nan_remaining": 1488,
+      "n_interpolated": 0
+    },
+    "total_hours": 1488,
+    "sources_used": "datagouv+infoclimat"
+  },
+  "data_manifest": {
+    "source_used": "datagouv",
+    "n_covered_dates": 62,
+    "n_missing_dates": 0,
+    "missing_dates": []
+  },
+  "T1": {
+    "label": "T1",
+    "start": "2026-06-15 00:00",
+    "end": "2026-07-20 23:00",
+    "actual_first_valid_hour": "2026-06-15 00:00:00",
+    "actual_last_valid_hour": "2026-07-20 23:00:00",
+    "missing_days": [],
+    "n_days_total": 36,
+    "n_days_partial": 0,
+    "mean_daily_mm": 6.66,
+    "total_mm": 239.77,
+    "total_m3": 38577.5,
+    "condensation": {
+      "hours": 292,
+      "total_mm": -18.075
+    }
+  },
+  "T2": {
+    "label": "T2",
+    "start": "2026-06-15 00:00",
+    "end": "2026-08-15 23:00",
+    "actual_first_valid_hour": "2026-06-15 00:00:00",
+    "actual_last_valid_hour": "2026-08-15 23:00:00",
+    "missing_days": [],
+    "n_days_total": 62,
+    "n_days_partial": 0,
+    "mean_daily_mm": 6.135,
+    "total_mm": 380.35,
+    "total_m3": 61195.5,
+    "condensation": {
+      "hours": 532,
+      "total_mm": -33.006
+    }
+  },
+  "condensation_T2": {
+    "hours": 532,
+    "total_mm": -33.006,
+    "note": "Negative E (condensation/dew) retained in totals; not clipped."
+  }
+}

@@ -1,0 +1,8 @@
+# Cached raw meteorological downloads (14 MB, re-fetched by data_io/download.py)
+data/raw/*.gz
+data/raw/*.html
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
